@@ -1,0 +1,119 @@
+.username {
+    Font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.profile-pic {
+    border-radius: 500px;
+    height: 200px;
+}
+
+.div {
+    padding: 1px;
+    width: 100%;
+    float: left;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.bleh {
+
+    background-color: #242526;
+    color: white;
+
+
+}
+
+.fit {
+    height: 200px;
+    width: 250px;
+    border: solid black 2px;
+    background-image: url("https://static.zerochan.net/Futaba.Rio.full.2502353.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.festival {
+    height: 200px;
+    width: 250px;
+    border: solid black 2px;
+}
+
+.selfie {
+    height: 200px;
+    width: 250px;
+    border: solid black 2px;
+}
+
+.posts {
+    display: flex;
+    position: absolute;
+    bottom: -250px;
+    width: 100%;
+    background-color: #242526;
+}
+
+.love {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    width: 100%;
+    background-color: #242526;
+    padding-left: 20px;
+    color: white;
+    border: solid black 3px;
+
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    background-color: #242526;
+    padding-left: 20px;
+    width: 50%;
+    font-size: 30px;
+    color: white;
+}
+
+.floof {
+    padding-right: 20px;
+    margin: 10px;
+    color: black;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    border-radius: 10%;
+    border-color: black;
+    border-style: solid;
+    color: white;
+
+}
+
+.name {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 19px;
+}
+
+.dm {
+    margin: 10px;
+    color: black;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    border-radius: 10%;
+    border-color: black;
+    border-style: solid;
+    color: white;
+}
+
+.show {
+    display: flex;
+    justify-content: flex-start;
+}
+
+body {
+    background-color: #242526;
+}
